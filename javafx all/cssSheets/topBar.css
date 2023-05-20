@@ -1,0 +1,111 @@
+
+.notificationButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-background-image: url("\noti.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.notificationButton:hover {
+    -fx-cursor: hand;
+    -fx-background-color:#dfdfdf;
+
+}
+
+.notificationButton:pressed{
+
+    -fx-background-color: #bcbcbc;
+
+}
+
+.personButton{
+
+    -fx-background-color:#218f44;
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-font-size: 8px;
+
+   -fx-font-weight: bold;
+
+   -fx-text-fill: white;
+
+    -fx-alignment: center;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 6.5px;
+}
+
+.personButton:hover {
+    -fx-cursor: hand;
+}
+
+
+
+.personButtonContainer{
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+}
+
+.statusIndicator{
+
+    -fx-stroke: white;
+    -fx-stroke-width: 2.5;
+
+}
+
+
+.calenderSidePanelButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-background-image: url("\split.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.calenderSidePanelButton:hover {
+    -fx-cursor: hand;
+    -fx-background-color:#dfdfdf;
+
+}
+
+.calenderSidePanelButton:pressed{
+
+    -fx-background-color: #bcbcbc;
+
+}

@@ -1,0 +1,93 @@
+
+*.tooltip{
+
+
+
+}
+
+.historyButton{
+
+    -fx-background-color: #c0c2c6;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\his.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.leftButton{
+
+    -fx-background-color: #c0c2c6;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\lft.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+
+.rightButton{
+
+    -fx-background-color: #c0c2c6;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\rgt.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.searchButton{
+
+                 -fx-background-color: #c0c2c6;
+
+                 -fx-opacity: 0.5;
+
+                -fx-font-size:10px;
+
+                 -fx-background-repeat: no-repeat;
+                 -fx-background-position: center;
+
+                 -fx-min-width: 100px;
+                 -fx-min-height: 27px;
+                 -fx-max-width: 50px;
+                 -fx-max-height: 27px;
+
+                 -fx-background-size: 65% 65%;
+                 -fx-background-radius: 5.5px;
+ }
+
+ .searchButton:hover{
+
+        -fx-background-color:#d2d4d7;
+
+ }

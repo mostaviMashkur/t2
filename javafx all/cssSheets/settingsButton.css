@@ -1,0 +1,67 @@
+.settingsButton{
+
+    -fx-background-color:transparent;
+    -fx-background-border:transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\stg.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+
+}
+
+.settingsButton:hover{
+
+    -fx-cursor: hand;
+    -fx-opacity:1.0;
+
+    -fx-background-color:#d6d5dc;
+
+}
+
+.settingsButton:pressed{
+
+    -fx-background-image: url("\st2.png");
+
+
+}
+
+.imCng{
+
+-fx-background-color:transparent;
+    -fx-background-border:transparent;
+
+    -fx-opacity: 0.0;
+
+    -fx-background-image: url("\cmr.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+
+
+
+}
+
+.imCng:hover{
+
+    -fx-opacity: 1.0;
+
+}

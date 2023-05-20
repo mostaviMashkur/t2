@@ -1,0 +1,252 @@
+*.label{
+
+    -fx-font-size:10px;
+
+}
+
+.whiteBoardsButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\bb.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.whiteBoardsButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+
+
+
+.homeButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\hm.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.homeButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+.mailButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\ml.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.mailButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+.calenderButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\cln.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.calenderButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+.teamChatButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\tc.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.teamChatButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+
+.contactsButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\cnt2.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.contactsButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+
+.appsButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\ap.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.appsButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+
+.meetingsButton{
+
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+    -fx-opacity: 0.5;
+
+    -fx-background-image: url("\mt.png");
+
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+
+    -fx-background-size: 65% 65%;
+    -fx-background-radius: 5.5px;
+}
+
+.meetingsButton:hover {
+
+       -fx-opacity:1.0;
+
+}
+.moreButton{
+
+              -fx-background-color: transparent;
+              -fx-border-color: transparent;
+
+              -fx-opacity: 0.5;
+
+              -fx-background-image: url("\mr.png");
+
+              -fx-background-repeat: no-repeat;
+              -fx-background-position: center;
+
+              -fx-min-width: 27px;
+              -fx-min-height: 27px;
+              -fx-max-width: 27px;
+              -fx-max-height: 27px;
+
+              -fx-background-size: 65% 65%;
+              -fx-background-radius: 5.5px;
+          }
+
+          .moreButton:hover {
+
+                 -fx-opacity:1.0;
+
+          }

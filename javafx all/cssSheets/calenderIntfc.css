@@ -1,0 +1,20 @@
+.timeLabel{
+
+    -fx-font-size:14px;
+
+}
+
+.addClnBtn{
+
+    -fx-background-color:transparent;
+    -fx-border-color:transparent;
+
+}
+
+.addClnBtn:hover{
+
+    -fx-text-fill:#5244f3;
+    -fx-graphic-text-fill:#5244f3;
+
+}
+
